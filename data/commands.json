@@ -1,0 +1,1 @@
+[null,{"name":"help","permissions":"NONE","restriction":"1","actions":[{"channel":"0","varName":"","message":"Moje komendy:\n\nAdmin: \n$$ban - wyrzuca urzytkowników na bardzo długo!\n$$mute - wycisza urzytkowników","storage":"0","varName2":"","name":"Send Message"}]}]
